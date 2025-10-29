@@ -1,10 +1,10 @@
-package ie.tcd.scss.spring_ai_chat_app;
+package ie.tcd.scss.aichat;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringAiChatAppApplicationTests {
+class AiChatApplicationTests {
 
 	@Test
 	void contextLoads() {
