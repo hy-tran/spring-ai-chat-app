@@ -1,13 +1,13 @@
-package ie.tcd.scss.spring_ai_chat_app;
+package ie.tcd.scss.aichat;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringAiChatAppApplication {
+public class AiChatApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringAiChatAppApplication.class, args);
+		SpringApplication.run(AiChatApplication.class, args);
 	}
 
 }
